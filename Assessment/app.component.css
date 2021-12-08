@@ -1,0 +1,16 @@
+.box{
+    display:flex;
+    width:700px;
+    justify-content: space-between;
+}
+
+.changeColor{
+    color:aqua;
+}
+.bgColor{
+    background-color: blueviolet;
+}
+.newFont{
+    color: crimson;
+}
+
